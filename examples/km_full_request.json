@@ -1,0 +1,1127 @@
+{
+  "axis_meta": {
+    "x": {
+      "tick_count": 5,
+      "unit": "month"
+    },
+    "y": {
+      "mapping": {
+        "a": "-0.0008166107699833621",
+        "b": "1.169620831386357"
+      },
+      "tick_count": 6,
+      "unit": "probability"
+    }
+  },
+  "clean_anchors": [
+    {
+      "axis": null,
+      "id": 0,
+      "page_id": 1,
+      "pos": [
+        121,
+        114,
+        2302,
+        117,
+        2298,
+        1649,
+        116,
+        1645
+      ],
+      "role": "plot_area",
+      "text": "",
+      "type": "plot_area",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 1,
+      "page_id": 1,
+      "pos": [
+        690,
+        16,
+        1872,
+        16,
+        1872,
+        80,
+        690,
+        80
+      ],
+      "role": "noise_text",
+      "text": "Kaplan-Meier Survival Curve by HRD Status",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": "y",
+      "id": 2,
+      "page_id": 1,
+      "pos": [
+        142,
+        185,
+        213,
+        185,
+        213,
+        231,
+        142,
+        231
+      ],
+      "role": "axis_tick_y",
+      "text": "1.0",
+      "type": "axis_tick",
+      "value": 1
+    },
+    {
+      "axis": null,
+      "id": 3,
+      "page_id": 1,
+      "pos": [
+        1922,
+        179,
+        2213,
+        183,
+        2212,
+        233,
+        1921,
+        229
+      ],
+      "role": "plot_text_mask",
+      "text": "HRD Group",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 4,
+      "page_id": 1,
+      "pos": [
+        1963,
+        245,
+        2269,
+        245,
+        2269,
+        290,
+        1963,
+        290
+      ],
+      "role": "plot_text_mask",
+      "text": "HRD POSITIVE",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 5,
+      "page_id": 1,
+      "pos": [
+        1965,
+        308,
+        2287,
+        308,
+        2287,
+        354,
+        1965,
+        354
+      ],
+      "role": "plot_text_mask",
+      "text": "HRD NEGATIVE",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": "y",
+      "id": 6,
+      "page_id": 1,
+      "pos": [
+        139,
+        430,
+        215,
+        430,
+        215,
+        475,
+        139,
+        475
+      ],
+      "role": "axis_tick_y",
+      "text": "0.8",
+      "type": "axis_tick",
+      "value": 0.8
+    },
+    {
+      "axis": "y",
+      "id": 7,
+      "page_id": 1,
+      "pos": [
+        139,
+        674,
+        215,
+        674,
+        215,
+        722,
+        139,
+        722
+      ],
+      "role": "axis_tick_y",
+      "text": "0.6",
+      "type": "axis_tick",
+      "value": 0.6
+    },
+    {
+      "axis": "y",
+      "id": 8,
+      "page_id": 1,
+      "pos": [
+        137,
+        919,
+        213,
+        919,
+        213,
+        964,
+        137,
+        964
+      ],
+      "role": "axis_tick_y",
+      "text": "0.4",
+      "type": "axis_tick",
+      "value": 0.4
+    },
+    {
+      "axis": "y",
+      "id": 9,
+      "page_id": 1,
+      "pos": [
+        139,
+        1163,
+        213,
+        1163,
+        213,
+        1211,
+        139,
+        1211
+      ],
+      "role": "axis_tick_y",
+      "text": "0.2",
+      "type": "axis_tick",
+      "value": 0.2
+    },
+    {
+      "axis": null,
+      "id": 10,
+      "page_id": 1,
+      "pos": [
+        338,
+        1193,
+        599,
+        1193,
+        599,
+        1239,
+        338,
+        1239
+      ],
+      "role": "plot_text_mask",
+      "text": "Median PFS:",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 11,
+      "page_id": 1,
+      "pos": [
+        366,
+        1243,
+        530,
+        1243,
+        530,
+        1287,
+        366,
+        1287
+      ],
+      "role": "plot_text_mask",
+      "text": "Pos: NR",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 12,
+      "page_id": 1,
+      "pos": [
+        366,
+        1291,
+        695,
+        1291,
+        695,
+        1339,
+        366,
+        1339
+      ],
+      "role": "plot_text_mask",
+      "text": "Neg: 17.1 mths",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 13,
+      "page_id": 1,
+      "pos": [
+        338,
+        1339,
+        930,
+        1339,
+        930,
+        1387,
+        338,
+        1387
+      ],
+      "role": "plot_text_mask",
+      "text": "HR: 0.65 (95% CI 0.36-1.16)",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": "y",
+      "id": 14,
+      "page_id": 1,
+      "pos": [
+        137,
+        1410,
+        210,
+        1410,
+        210,
+        1456,
+        137,
+        1456
+      ],
+      "role": "axis_tick_y",
+      "text": "0.0",
+      "type": "axis_tick",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 15,
+      "page_id": 1,
+      "pos": [
+        336,
+        1387,
+        743,
+        1387,
+        743,
+        1442,
+        336,
+        1442
+      ],
+      "role": "plot_text_mask",
+      "text": "Log-rank P: 0.1386",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": "x",
+      "id": 16,
+      "page_id": 1,
+      "pos": [
+        313,
+        1517,
+        352,
+        1517,
+        352,
+        1563,
+        313,
+        1563
+      ],
+      "role": "axis_tick_x",
+      "text": "0",
+      "type": "axis_tick",
+      "value": 0
+    },
+    {
+      "axis": "x",
+      "id": 17,
+      "page_id": 1,
+      "pos": [
+        763,
+        1520,
+        818,
+        1520,
+        818,
+        1563,
+        763,
+        1563
+      ],
+      "role": "axis_tick_x",
+      "text": "10",
+      "type": "axis_tick",
+      "value": 10
+    },
+    {
+      "axis": "x",
+      "id": 18,
+      "page_id": 1,
+      "pos": [
+        1216,
+        1517,
+        1277,
+        1517,
+        1277,
+        1563,
+        1216,
+        1563
+      ],
+      "role": "axis_tick_x",
+      "text": "20",
+      "type": "axis_tick",
+      "value": 20
+    },
+    {
+      "axis": "x",
+      "id": 19,
+      "page_id": 1,
+      "pos": [
+        1675,
+        1517,
+        1732,
+        1517,
+        1732,
+        1563,
+        1675,
+        1563
+      ],
+      "role": "axis_tick_x",
+      "text": "30",
+      "type": "axis_tick",
+      "value": 30
+    },
+    {
+      "axis": "x",
+      "id": 20,
+      "page_id": 1,
+      "pos": [
+        2132,
+        1520,
+        2191,
+        1520,
+        2191,
+        1563,
+        2132,
+        1563
+      ],
+      "role": "axis_tick_x",
+      "text": "40",
+      "type": "axis_tick",
+      "value": 40
+    },
+    {
+      "axis": null,
+      "id": 21,
+      "page_id": 1,
+      "pos": [
+        1193,
+        1577,
+        1369,
+        1577,
+        1369,
+        1625,
+        1193,
+        1625
+      ],
+      "role": "plot_text_mask",
+      "text": "timeline",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 22,
+      "page_id": 1,
+      "pos": [
+        33,
+        1670,
+        335,
+        1670,
+        335,
+        1713,
+        33,
+        1713
+      ],
+      "role": "noise_text",
+      "text": "HRD POSITIVE",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 23,
+      "page_id": 1,
+      "pos": [
+        100,
+        1722,
+        334,
+        1720,
+        334,
+        1764,
+        101,
+        1767
+      ],
+      "role": "noise_text",
+      "text": "At risk 46",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 24,
+      "page_id": 1,
+      "pos": [
+        735,
+        1721,
+        793,
+        1721,
+        793,
+        1764,
+        735,
+        1764
+      ],
+      "role": "noise_text",
+      "text": "38",
+      "type": "text",
+      "value": 38
+    },
+    {
+      "axis": null,
+      "id": 25,
+      "page_id": 1,
+      "pos": [
+        1191,
+        1719,
+        1248,
+        1719,
+        1248,
+        1764,
+        1191,
+        1764
+      ],
+      "role": "noise_text",
+      "text": "27",
+      "type": "text",
+      "value": 27
+    },
+    {
+      "axis": null,
+      "id": 26,
+      "page_id": 1,
+      "pos": [
+        1650,
+        1721,
+        1707,
+        1721,
+        1707,
+        1764,
+        1650,
+        1764
+      ],
+      "role": "noise_text",
+      "text": "18",
+      "type": "text",
+      "value": 18
+    },
+    {
+      "axis": null,
+      "id": 27,
+      "page_id": 1,
+      "pos": [
+        2129,
+        1719,
+        2166,
+        1719,
+        2166,
+        1764,
+        2129,
+        1764
+      ],
+      "role": "noise_text",
+      "text": "0",
+      "type": "text",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 28,
+      "page_id": 1,
+      "pos": [
+        39,
+        1771,
+        242,
+        1771,
+        242,
+        1817,
+        39,
+        1817
+      ],
+      "role": "noise_text",
+      "text": "Censored",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 29,
+      "page_id": 1,
+      "pos": [
+        299,
+        1771,
+        335,
+        1771,
+        335,
+        1813,
+        299,
+        1813
+      ],
+      "role": "noise_text",
+      "text": "0",
+      "type": "text",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 30,
+      "page_id": 1,
+      "pos": [
+        759,
+        1771,
+        796,
+        1771,
+        796,
+        1813,
+        759,
+        1813
+      ],
+      "role": "noise_text",
+      "text": "0",
+      "type": "text",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 31,
+      "page_id": 1,
+      "pos": [
+        1216,
+        1771,
+        1252,
+        1771,
+        1252,
+        1813,
+        1216,
+        1813
+      ],
+      "role": "noise_text",
+      "text": "0",
+      "type": "text",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 32,
+      "page_id": 1,
+      "pos": [
+        1673,
+        1769,
+        1709,
+        1769,
+        1709,
+        1813,
+        1673,
+        1813
+      ],
+      "role": "noise_text",
+      "text": "6",
+      "type": "text",
+      "value": 6
+    },
+    {
+      "axis": null,
+      "id": 33,
+      "page_id": 1,
+      "pos": [
+        2105,
+        1771,
+        2165,
+        1771,
+        2165,
+        1812,
+        2105,
+        1812
+      ],
+      "role": "noise_text",
+      "text": "24",
+      "type": "text",
+      "value": 24
+    },
+    {
+      "axis": null,
+      "id": 34,
+      "page_id": 1,
+      "pos": [
+        94,
+        1819,
+        244,
+        1819,
+        244,
+        1862,
+        94,
+        1862
+      ],
+      "role": "noise_text",
+      "text": "Events",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 35,
+      "page_id": 1,
+      "pos": [
+        296,
+        1819,
+        335,
+        1819,
+        335,
+        1862,
+        296,
+        1862
+      ],
+      "role": "noise_text",
+      "text": "0",
+      "type": "text",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 36,
+      "page_id": 1,
+      "pos": [
+        759,
+        1817,
+        796,
+        1817,
+        796,
+        1862,
+        759,
+        1862
+      ],
+      "role": "noise_text",
+      "text": "8",
+      "type": "text",
+      "value": 8
+    },
+    {
+      "axis": null,
+      "id": 37,
+      "page_id": 1,
+      "pos": [
+        1193,
+        1819,
+        1251,
+        1819,
+        1251,
+        1862,
+        1193,
+        1862
+      ],
+      "role": "noise_text",
+      "text": "19",
+      "type": "text",
+      "value": 19
+    },
+    {
+      "axis": null,
+      "id": 38,
+      "page_id": 1,
+      "pos": [
+        1648,
+        1819,
+        1707,
+        1819,
+        1707,
+        1862,
+        1648,
+        1862
+      ],
+      "role": "noise_text",
+      "text": "22",
+      "type": "text",
+      "value": 22
+    },
+    {
+      "axis": null,
+      "id": 39,
+      "page_id": 1,
+      "pos": [
+        2105,
+        1819,
+        2165,
+        1819,
+        2165,
+        1862,
+        2105,
+        1862
+      ],
+      "role": "noise_text",
+      "text": "22",
+      "type": "text",
+      "value": 22
+    },
+    {
+      "axis": null,
+      "id": 40,
+      "page_id": 1,
+      "pos": [
+        13,
+        1916,
+        334,
+        1914,
+        334,
+        1958,
+        14,
+        1962
+      ],
+      "role": "noise_text",
+      "text": "HRD NEGATIVE",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 41,
+      "page_id": 1,
+      "pos": [
+        103,
+        1966,
+        332,
+        1966,
+        332,
+        2011,
+        103,
+        2011
+      ],
+      "role": "noise_text",
+      "text": "At risk 37",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 42,
+      "page_id": 1,
+      "pos": [
+        735,
+        1966,
+        793,
+        1966,
+        793,
+        2008,
+        735,
+        2008
+      ],
+      "role": "noise_text",
+      "text": "28",
+      "type": "text",
+      "value": 28
+    },
+    {
+      "axis": null,
+      "id": 43,
+      "page_id": 1,
+      "pos": [
+        1193,
+        1966,
+        1251,
+        1966,
+        1251,
+        2008,
+        1193,
+        2008
+      ],
+      "role": "noise_text",
+      "text": "17",
+      "type": "text",
+      "value": 17
+    },
+    {
+      "axis": null,
+      "id": 44,
+      "page_id": 1,
+      "pos": [
+        1673,
+        1966,
+        1709,
+        1966,
+        1709,
+        2011,
+        1673,
+        2011
+      ],
+      "role": "noise_text",
+      "text": "9",
+      "type": "text",
+      "value": 9
+    },
+    {
+      "axis": null,
+      "id": 45,
+      "page_id": 1,
+      "pos": [
+        2132,
+        1966,
+        2166,
+        1966,
+        2166,
+        2011,
+        2132,
+        2011
+      ],
+      "role": "noise_text",
+      "text": "1",
+      "type": "text",
+      "value": 1
+    },
+    {
+      "axis": null,
+      "id": 46,
+      "page_id": 1,
+      "pos": [
+        36,
+        2016,
+        242,
+        2016,
+        242,
+        2061,
+        36,
+        2061
+      ],
+      "role": "noise_text",
+      "text": "Censored",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 47,
+      "page_id": 1,
+      "pos": [
+        299,
+        2016,
+        335,
+        2016,
+        335,
+        2061,
+        299,
+        2061
+      ],
+      "role": "noise_text",
+      "text": "0",
+      "type": "text",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 48,
+      "page_id": 1,
+      "pos": [
+        759,
+        2016,
+        796,
+        2016,
+        796,
+        2059,
+        759,
+        2059
+      ],
+      "role": "noise_text",
+      "text": "0",
+      "type": "text",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 49,
+      "page_id": 1,
+      "pos": [
+        1216,
+        2016,
+        1252,
+        2016,
+        1252,
+        2059,
+        1216,
+        2059
+      ],
+      "role": "noise_text",
+      "text": "0",
+      "type": "text",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 50,
+      "page_id": 1,
+      "pos": [
+        1673,
+        2016,
+        1709,
+        2016,
+        1709,
+        2059,
+        1673,
+        2059
+      ],
+      "role": "noise_text",
+      "text": "4",
+      "type": "text",
+      "value": 4
+    },
+    {
+      "axis": null,
+      "id": 51,
+      "page_id": 1,
+      "pos": [
+        2109,
+        2016,
+        2165,
+        2016,
+        2165,
+        2059,
+        2109,
+        2059
+      ],
+      "role": "noise_text",
+      "text": "12",
+      "type": "text",
+      "value": 12
+    },
+    {
+      "axis": null,
+      "id": 52,
+      "page_id": 1,
+      "pos": [
+        94,
+        2063,
+        247,
+        2063,
+        247,
+        2107,
+        94,
+        2107
+      ],
+      "role": "noise_text",
+      "text": "Events",
+      "type": "text",
+      "value": null
+    },
+    {
+      "axis": null,
+      "id": 53,
+      "page_id": 1,
+      "pos": [
+        296,
+        2063,
+        335,
+        2063,
+        335,
+        2107,
+        296,
+        2107
+      ],
+      "role": "noise_text",
+      "text": "0",
+      "type": "text",
+      "value": 0
+    },
+    {
+      "axis": null,
+      "id": 54,
+      "page_id": 1,
+      "pos": [
+        759,
+        2061,
+        796,
+        2061,
+        796,
+        2109,
+        759,
+        2109
+      ],
+      "role": "noise_text",
+      "text": "9",
+      "type": "text",
+      "value": 9
+    },
+    {
+      "axis": null,
+      "id": 55,
+      "page_id": 1,
+      "pos": [
+        1191,
+        2063,
+        1251,
+        2063,
+        1251,
+        2107,
+        1191,
+        2107
+      ],
+      "role": "noise_text",
+      "text": "20",
+      "type": "text",
+      "value": 20
+    },
+    {
+      "axis": null,
+      "id": 56,
+      "page_id": 1,
+      "pos": [
+        1650,
+        2063,
+        1709,
+        2063,
+        1709,
+        2107,
+        1650,
+        2107
+      ],
+      "role": "noise_text",
+      "text": "24",
+      "type": "text",
+      "value": 24
+    },
+    {
+      "axis": null,
+      "id": 57,
+      "page_id": 1,
+      "pos": [
+        2107,
+        2066,
+        2166,
+        2066,
+        2166,
+        2107,
+        2107,
+        2107
+      ],
+      "role": "noise_text",
+      "text": "24",
+      "type": "text",
+      "value": 24
+    }
+  ],
+  "image_url": "https://p26-bot-workflow-sign.byteimg.com/tos-cn-i-mdko3gqilj/0dcaa24d388342eea2564976396f68a9.png~tplv-mdko3gqilj-image.image?rk3s=81d4c505&x-expires=1800693490&x-signature=%2FwOtOeb8ELP0gRxZRXYHdwLkSNM%3D&x-wf-file_name=KM_Survival_Curve_HRD.png",
+  "plot_area": {
+    "x_max": 2302,
+    "x_min": 116,
+    "y_max": 1649,
+    "y_min": 114
+  }
+}

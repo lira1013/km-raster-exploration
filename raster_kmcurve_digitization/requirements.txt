@@ -1,0 +1,26 @@
+# 核心Web框架（匹配你的环境版本）
+Flask==2.3.3
+# 图像处理核心库（注意：需要opencv-contrib-python而非opencv-python，否则ximgproc模块缺失）
+opencv-contrib-python==4.8.1.78
+# 数值计算库（固定版本，避免兼容性问题）
+numpy==1.26.4
+# 生产环境WSGI服务器（固定版本）
+gunicorn==21.2.0
+# HTTP请求库（下载图片用，固定主版本）
+requests==2.32.5
+# 异步IO扩展（提升gunicorn并发，固定主版本）
+gevent==23.9.1
+# 补充：base64/JSON处理依赖（Python标准库已包含，无需额外安装）
+# 补充：copy/re/functools等均为Python标准库，无需添加
+# 曲线聚类必需（DBSCAN算法）
+scikit-learn==1.3.2
+# 可选：提升numpy计算性能（Python 3.9兼容）
+scipy==1.11.4
+# 可选：修复Python 3.9下的依赖兼容问题
+setuptools<70.0.0
+scikit-image
+pandas>=1.3.0
+
+
+
+
